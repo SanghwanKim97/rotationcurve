@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Kim"
+  given-names: "Sanghwan"
+title: "Gadget-2.0.7 rotation curve"
+version: 1.0.0
+date-released: 2022-06-23
+url: "https://github.com/SanghwanKim97/rotationcurve.git"
